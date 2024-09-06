@@ -1,2 +1,2 @@
 # Ruffle Web Player
-Use Ruffle in the web. 
+Use the Ruffle flash emulator in the web.
